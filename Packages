@@ -1,15 +1,27 @@
 Package: com.infini-dev.org.installer413alpha
 Version: 4.1.3.2
+Section: Infini-Dev
 Architecture: iphoneos-arm
 Filename: ./com.infini-dev.org.installer413alpha.deb
 Size: 887640
 MD5sum: 55e2a1ce89b6666ca532b9425cbea282
-SHA1: 41f9177644684028f8ff08213e2f8dce3d78cf01
-SHA256: e43dea838939426369ac61b8a1f97a2fbbbc79e9a62cee6fa05a86ab65605b9a
-Section: Infini-Dev
 Description: New in Beta 2: Added Retina folder icons.
+Name: Installer 4.1.3 Alpha
 Author: Infini-Dev   <samtulp6@me.com>
 Depiction: http://infini-dev.org/cydia/debs/com.infini-dev.org.installer413alpha/FILE/index.html
 Icon: http://itiaprepo.com/tiz38/test.png
-Name: Installer 4.1.3 Alpha
+
+Package: dev.amygrace.nukedock
+Version: 0.0.1-2+debug
+Section: Tweaks
+Maintainer: Amy
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: ./dev.amygrace.nukedock_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3122
+Installed-Size: 152
+MD5sum: d9a357bd12155ef3bac33c9106945256
+Description: Nuke the dock background!
+Name: NukeDock
+Author: Amy
 
